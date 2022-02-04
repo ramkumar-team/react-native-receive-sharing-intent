@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/e11bb25af3005a324fb18746ed77efde/core-1.0.1/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/drawable-v21/abc_list_divider_material.xml"
+    }
+]

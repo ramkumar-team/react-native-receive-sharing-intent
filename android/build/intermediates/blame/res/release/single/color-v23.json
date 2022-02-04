@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

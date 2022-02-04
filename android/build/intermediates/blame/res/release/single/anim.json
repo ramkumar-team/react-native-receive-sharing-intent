@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/578661c615d516d173d956cb2379d156/jetified-react-native-0.63.3/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/578661c615d516d173d956cb2379d156/jetified-react-native-0.63.3/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/578661c615d516d173d956cb2379d156/jetified-react-native-0.63.3/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/578661c615d516d173d956cb2379d156/jetified-react-native-0.63.3/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/578661c615d516d173d956cb2379d156/jetified-react-native-0.63.3/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/578661c615d516d173d956cb2379d156/jetified-react-native-0.63.3/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/senthilkumarperiyasamy/Documents/sudeesh/glocl/node_modules/react-native-receive-sharing-intent/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-2/files-2.1/7a80673c633f06a236a18220a93fd022/appcompat-1.0.2/res/anim/abc_tooltip_exit.xml"
+    }
+]
